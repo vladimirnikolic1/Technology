@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+  <advance width="353"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="156" y="-56" type="line"/>
+      <point x="156" y="293" type="line"/>
+      <point x="191" y="336" type="line"/>
+      <point x="231" y="299" type="line"/>
+      <point x="231" y="-19" type="line"/>
+      <point x="175" y="-74" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="302" type="line"/>
+      <point x="28" y="339" type="line"/>
+      <point x="65" y="376" type="line"/>
+      <point x="138" y="376" type="line"/>
+      <point x="175" y="339" type="line"/>
+      <point x="138" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="354" type="line"/>
+      <point x="156" y="391" type="line"/>
+      <point x="156" y="739" type="line"/>
+      <point x="175" y="757" type="line"/>
+      <point x="231" y="702" type="line"/>
+      <point x="231" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="720" type="line"/>
+      <point x="193" y="776" type="line"/>
+      <point x="212" y="795" type="line"/>
+      <point x="398" y="795" type="line"/>
+      <point x="416" y="776" type="line"/>
+      <point x="361" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="-112" type="line"/>
+      <point x="193" y="-93" type="line"/>
+      <point x="249" y="-37" type="line"/>
+      <point x="361" y="-37" type="line"/>
+      <point x="416" y="-93" type="line"/>
+      <point x="398" y="-112" type="line"/>
+    </contour>
+  </outline>
+</glyph>
