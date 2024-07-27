@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="160"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="81" y="99" type="line"/>
+      <point x="43" y="137" type="line"/>
+      <point x="43" y="262" type="line"/>
+      <point x="118" y="262" type="line"/>
+      <point x="118" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="470" type="line"/>
+      <point x="44" y="544" type="line"/>
+      <point x="118" y="544" type="line"/>
+      <point x="118" y="470" type="line"/>
+    </contour>
+  </outline>
+</glyph>

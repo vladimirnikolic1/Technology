@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde" format="2">
+  <advance width="447"/>
+  <unicode hex="0168"/>
+  <outline>
+    <contour>
+      <point x="36" y="19" type="line"/>
+      <point x="36" y="317" type="line"/>
+      <point x="55" y="335" type="line"/>
+      <point x="111" y="279" type="line"/>
+      <point x="111" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="129" y="74" type="line"/>
+      <point x="316" y="74" type="line"/>
+      <point x="390" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="93" type="line"/>
+      <point x="334" y="279" type="line"/>
+      <point x="390" y="335" type="line"/>
+      <point x="409" y="317" type="line"/>
+      <point x="409" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="354" type="line"/>
+      <point x="36" y="373" type="line"/>
+      <point x="36" y="689" type="line"/>
+      <point x="111" y="615" type="line"/>
+      <point x="111" y="410" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="354" type="line"/>
+      <point x="334" y="410" type="line"/>
+      <point x="334" y="615" type="line"/>
+      <point x="409" y="689" type="line"/>
+      <point x="409" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="750" type="line"/>
+      <point x="183" y="852" type="line"/>
+      <point x="237" y="852" type="line"/>
+      <point x="277" y="806" type="line"/>
+      <point x="343" y="852" type="line"/>
+      <point x="376" y="826" type="line"/>
+      <point x="290" y="724" type="line"/>
+      <point x="210" y="780" type="line"/>
+      <point x="130" y="724" type="line"/>
+    </contour>
+  </outline>
+</glyph>

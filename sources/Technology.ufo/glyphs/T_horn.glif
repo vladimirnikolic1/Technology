@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="503"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="34" y="56" type="line"/>
+      <point x="34" y="279" type="line"/>
+      <point x="90" y="335" type="line"/>
+      <point x="109" y="316" type="line"/>
+      <point x="109" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="88" type="line"/>
+      <point x="132" y="163" type="line"/>
+      <point x="387" y="163" type="line"/>
+      <point x="442" y="107" type="line"/>
+      <point x="424" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="181" type="line"/>
+      <point x="405" y="279" type="line"/>
+      <point x="461" y="335" type="line"/>
+      <point x="480" y="316" type="line"/>
+      <point x="480" y="144" type="line"/>
+      <point x="461" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="354" type="line"/>
+      <point x="34" y="410" type="line"/>
+      <point x="34" y="633" type="line"/>
+      <point x="90" y="689" type="line"/>
+      <point x="109" y="670" type="line"/>
+      <point x="109" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="539" type="line"/>
+      <point x="132" y="614" type="line"/>
+      <point x="424" y="614" type="line"/>
+      <point x="442" y="595" type="line"/>
+      <point x="387" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="353" type="line"/>
+      <point x="405" y="409" type="line"/>
+      <point x="405" y="521" type="line"/>
+      <point x="461" y="576" type="line"/>
+      <point x="480" y="558" type="line"/>
+      <point x="480" y="372" type="line"/>
+    </contour>
+  </outline>
+</glyph>
