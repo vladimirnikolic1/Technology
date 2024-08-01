@@ -1,4 +1,4 @@
-Copyright 2018 The Technology Project Authors (https://github.com/vladimirnikolic1/Technology) 
+Copyright 2019 The Technology Project Authors (https://github.com/vladimirnikolic1/Technology) 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
