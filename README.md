@@ -8,9 +8,9 @@ Technology is the application of conceptual knowledge to achieve practical goals
 
 Technology has the following axe:
 
-Axis | Tag | Default | Static Instances
+| Tag | Default | Static Instances
 --- | --- | --- | ---
-Weight | wght | 400 | Regular
+| wght | 400 | Regular
 
 ![Image](documentation/image2.png)
 
