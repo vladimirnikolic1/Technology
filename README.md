@@ -1,5 +1,7 @@
 # Technology
 
+![Image](documentation/image3.png)
+
 ![Image](documentation/image2.png)
 
 Technology is the application of conceptual knowledge to achieve practical goals, especially in a reproducible way. The word technology can also mean the products resulting from such efforts, including both tangible tools such as utensils or machines, and intangible ones such as software.
