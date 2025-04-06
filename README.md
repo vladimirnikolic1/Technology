@@ -1,6 +1,6 @@
 # Technology
 
-![Image](documentation/image1.png)
+![Image](documentation/image2.png)
 
 Technology is the application of conceptual knowledge to achieve practical goals, especially in a reproducible way. The word technology can also mean the products resulting from such efforts, including both tangible tools such as utensils or machines, and intangible ones such as software.
 
@@ -12,7 +12,7 @@ Technology has the following axe:
 --- | --- | ---
   wght | 400 | Regular
 
-![Image](documentation/image2.png)
+![Image](documentation/image1.png)
 
 ## Image License
 The images in this repository are licensed under the CC https://creativecommons.org/licenses/by-sa/4.0/
